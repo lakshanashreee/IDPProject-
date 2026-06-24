@@ -1,0 +1,11 @@
+com\ecommerce\productservice\exception\ProductNotFoundException.class
+com\ecommerce\productservice\service\ProductService.class
+com\ecommerce\productservice\ProductServiceApplication.class
+com\ecommerce\productservice\dto\ProductRequest.class
+com\ecommerce\productservice\dto\ProductResponse.class
+com\ecommerce\productservice\dto\ApiResponse.class
+com\ecommerce\productservice\exception\GlobalExceptionHandler.class
+com\ecommerce\productservice\service\impl\ProductServiceImpl.class
+com\ecommerce\productservice\repository\ProductRepository.class
+com\ecommerce\productservice\model\Product.class
+com\ecommerce\productservice\controller\ProductController.class

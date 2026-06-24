@@ -1,0 +1,11 @@
+C:\Users\lakshana.shree\LAXXU\files\ECOMMERCE-microservices\ecommerce\product-service\src\main\java\com\ecommerce\productservice\controller\ProductController.java
+C:\Users\lakshana.shree\LAXXU\files\ECOMMERCE-microservices\ecommerce\product-service\src\main\java\com\ecommerce\productservice\dto\ProductRequest.java
+C:\Users\lakshana.shree\LAXXU\files\ECOMMERCE-microservices\ecommerce\product-service\src\main\java\com\ecommerce\productservice\ProductServiceApplication.java
+C:\Users\lakshana.shree\LAXXU\files\ECOMMERCE-microservices\ecommerce\product-service\src\main\java\com\ecommerce\productservice\service\ProductService.java
+C:\Users\lakshana.shree\LAXXU\files\ECOMMERCE-microservices\ecommerce\product-service\src\main\java\com\ecommerce\productservice\exception\GlobalExceptionHandler.java
+C:\Users\lakshana.shree\LAXXU\files\ECOMMERCE-microservices\ecommerce\product-service\src\main\java\com\ecommerce\productservice\model\Product.java
+C:\Users\lakshana.shree\LAXXU\files\ECOMMERCE-microservices\ecommerce\product-service\src\main\java\com\ecommerce\productservice\exception\ProductNotFoundException.java
+C:\Users\lakshana.shree\LAXXU\files\ECOMMERCE-microservices\ecommerce\product-service\src\main\java\com\ecommerce\productservice\dto\ProductResponse.java
+C:\Users\lakshana.shree\LAXXU\files\ECOMMERCE-microservices\ecommerce\product-service\src\main\java\com\ecommerce\productservice\service\impl\ProductServiceImpl.java
+C:\Users\lakshana.shree\LAXXU\files\ECOMMERCE-microservices\ecommerce\product-service\src\main\java\com\ecommerce\productservice\dto\ApiResponse.java
+C:\Users\lakshana.shree\LAXXU\files\ECOMMERCE-microservices\ecommerce\product-service\src\main\java\com\ecommerce\productservice\repository\ProductRepository.java

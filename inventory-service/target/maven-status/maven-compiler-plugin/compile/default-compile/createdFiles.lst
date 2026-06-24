@@ -1,0 +1,13 @@
+com\ecommerce\inventoryservice\exception\InsufficientStockException.class
+com\ecommerce\inventoryservice\dto\ApiResponse.class
+com\ecommerce\inventoryservice\exception\InventoryNotFoundException.class
+com\ecommerce\inventoryservice\InventoryServiceApplication.class
+com\ecommerce\inventoryservice\repository\InventoryRepository.class
+com\ecommerce\inventoryservice\controller\InventoryController.class
+com\ecommerce\inventoryservice\service\impl\InventoryServiceImpl.class
+com\ecommerce\inventoryservice\dto\InventoryResponse.class
+com\ecommerce\inventoryservice\exception\GlobalExceptionHandler.class
+com\ecommerce\inventoryservice\dto\InventoryRequest.class
+com\ecommerce\inventoryservice\service\InventoryService.class
+com\ecommerce\inventoryservice\dto\StockUpdateRequest.class
+com\ecommerce\inventoryservice\model\Inventory.class

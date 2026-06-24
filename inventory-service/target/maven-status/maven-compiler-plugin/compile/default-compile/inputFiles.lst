@@ -1,0 +1,13 @@
+C:\Users\lakshana.shree\LAXXU\files\ECOMMERCE-microservices\ecommerce\inventory-service\src\main\java\com\ecommerce\inventoryservice\InventoryServiceApplication.java
+C:\Users\lakshana.shree\LAXXU\files\ECOMMERCE-microservices\ecommerce\inventory-service\src\main\java\com\ecommerce\inventoryservice\service\impl\InventoryServiceImpl.java
+C:\Users\lakshana.shree\LAXXU\files\ECOMMERCE-microservices\ecommerce\inventory-service\src\main\java\com\ecommerce\inventoryservice\dto\InventoryResponse.java
+C:\Users\lakshana.shree\LAXXU\files\ECOMMERCE-microservices\ecommerce\inventory-service\src\main\java\com\ecommerce\inventoryservice\controller\InventoryController.java
+C:\Users\lakshana.shree\LAXXU\files\ECOMMERCE-microservices\ecommerce\inventory-service\src\main\java\com\ecommerce\inventoryservice\repository\InventoryRepository.java
+C:\Users\lakshana.shree\LAXXU\files\ECOMMERCE-microservices\ecommerce\inventory-service\src\main\java\com\ecommerce\inventoryservice\exception\GlobalExceptionHandler.java
+C:\Users\lakshana.shree\LAXXU\files\ECOMMERCE-microservices\ecommerce\inventory-service\src\main\java\com\ecommerce\inventoryservice\dto\InventoryRequest.java
+C:\Users\lakshana.shree\LAXXU\files\ECOMMERCE-microservices\ecommerce\inventory-service\src\main\java\com\ecommerce\inventoryservice\service\InventoryService.java
+C:\Users\lakshana.shree\LAXXU\files\ECOMMERCE-microservices\ecommerce\inventory-service\src\main\java\com\ecommerce\inventoryservice\dto\ApiResponse.java
+C:\Users\lakshana.shree\LAXXU\files\ECOMMERCE-microservices\ecommerce\inventory-service\src\main\java\com\ecommerce\inventoryservice\dto\StockUpdateRequest.java
+C:\Users\lakshana.shree\LAXXU\files\ECOMMERCE-microservices\ecommerce\inventory-service\src\main\java\com\ecommerce\inventoryservice\exception\InsufficientStockException.java
+C:\Users\lakshana.shree\LAXXU\files\ECOMMERCE-microservices\ecommerce\inventory-service\src\main\java\com\ecommerce\inventoryservice\exception\InventoryNotFoundException.java
+C:\Users\lakshana.shree\LAXXU\files\ECOMMERCE-microservices\ecommerce\inventory-service\src\main\java\com\ecommerce\inventoryservice\model\Inventory.java
